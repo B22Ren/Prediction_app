@@ -16,3 +16,16 @@ Unele csv au alte structuri astfel s-ar putea crea unele erori la citirea datelo
 
 
 Imaginile se salveaza in profile_images
+
+
+Dataset from 2016- 02/17/2017
+
+For the correct function of the app u could work with an virtual enviroment env. I instaled libraries from python, keras, tensorflow, pandas, NumPy, Matplotlib, Statsmodels, Scikit-learn, PyYAML, bcrypt, Streamlit, os, Load_dotenv, time_delta
+
+to start the aplication run streamlit run app.py
+
+In order for notifications to work when creating an account u should have telegram instaled , search for @userinfobot select the ID, then search for @predictie_currency_bot and press start.
+
+use the existing currency_data.csv 
+
+The images are saving in the profile_oimages.
