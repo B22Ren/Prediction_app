@@ -1,0 +1,50 @@
+credentials:
+  usernames:
+    Alexandra Mereuta:
+      email: alexandramereuta9811@gmail.com
+      name: Alexandra Mereuta
+      password: $2b$12$4VyUM0iiGYF2xx.WwVAtLOV16YjWghH0ddNqQbNIJnumbS.QK/WkO
+      profile_image: profile_images/Alexandra Mereuta.png
+      telegram_chat_id: ''
+    Andro:
+      email: Sorster6@gmail.com
+      name: Andro
+      notifications: false
+      notifications_enabled: true
+      password: $2b$12$nGeLRNisSXM6SQpeKWwyOuFUMACqpv1vuTIgYTKrfkmXXQnm8Xmci
+      profile_image: profile_images/Andro.png
+      telegram_chat_id: '7592167839'
+    Bordianu Renata:
+      email: bordianurenata@gmail.com
+      name: Bordianu Renata
+      password: $2b$12$SydCtY0sTuyq5GC4Mm1LQ.yXQamJ/j3KiuGy4hwuMfA5v53qqX1ju
+      telegram_chat_id: '1007913456'
+    Cristian Mocreac:
+      email: mocreaccristian@gmail.com
+      name: Cristian Mocreac
+      password: $2b$12$.xoyqPiB7hQUp5g6ndaX8u17DvIGcGIhCpjVDTJ1kpsNZLDjkKeLW
+      telegram_chat_id: '1007917473'
+    Elena_Bivol:
+      email: gtmnjetzt@gmail.com
+      name: Elena_Bivol
+      password: $2b$12$03.Z1gfgnxKPC6kLlLhxRuts6S/3CUtK5jA9WA7S.KHOwgum7eBh6
+      profile_image: profile_images/Elena_Bivol.png
+      telegram_chat_id: '1074693871'
+    Ivan Alexandra:
+      email: ivanalexandra30@gmail.com
+      name: Ivan Alexandra
+      password: $2b$12$Gd260IAdkJOzDSPPA3u34u4j3fYEii2Ut0z740gyOuA2zFNswwJEq
+      profile_image: profile_images/Ivan Alexandra.png
+      telegram_chat_id: ''
+    Victor:
+      email: proshadow555@gmail.com
+      name: Victor
+      notifications: true
+      password: $2b$12$rzTXiy1j.HW1S1.YqOCno.U/d5eb0sFRPgk148v/5o9qQAzD8psza
+      profile_image: profile_images\Victor.png
+    Viktor:
+      email: sorstersaysso@gmail.com
+      name: Viktor
+      notifications: false
+      password: $2b$12$h11lTHymqhew8OSmMEpb6eJ6tgAGfDQmef/gXjJ0o5Nafd4njPJyK
+      profile_image: profile_images\Viktor.png

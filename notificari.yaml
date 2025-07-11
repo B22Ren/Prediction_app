@@ -1,0 +1,12 @@
+Andro:
+  email: Sorster6@gmail.com
+  model: ARIMA
+  valuta: USD/AOA
+Cristian Mocreac:
+  email: mocreaccristian@gmail.com
+  model: ARIMA
+  valuta: USD/XOF
+Elena_Bivol:
+  email: gtmnjetzt@gmail.com
+  model: RNN
+  valuta: USD/BND
