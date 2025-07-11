@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+PyYAML
+bcrypt
+python-dotenv
+yagmail
+Pillow
+requests
+statsmodels
+scikit-learn
+tensorflow
